@@ -1,0 +1,1 @@
+current bill calculator will get the watt of device,using time and unit cost given to the bill paper from the user and than it will apply the calculation of electric bill and print the value od unit usages and the cost of the bill.
